@@ -1,6 +1,5 @@
 
 SoundManager = {
-
   	play = function(fileName,options)
 
   		if options == nil then
