@@ -13,7 +13,6 @@
 display.setStatusBar( display.HiddenStatusBar ) 
 
 local slideView = require("slideView")
-	
 local myImages = {
 	"images/TimeMode.png",
 	"images/KidMode.png",
